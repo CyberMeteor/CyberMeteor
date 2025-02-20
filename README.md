@@ -4,6 +4,7 @@
 💻 Full-Stack Developer | Cloud Enthusiast | Systems Architect  
 🚀 Passionate about building scalable systems and solving complex problems
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CyberMeteor)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruiyangchen-dev/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:im.ruiyangchen@gmail.com)
 
