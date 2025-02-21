@@ -4,7 +4,7 @@
 💻 Full-Stack Developer | Cloud Enthusiast | Systems Architect  
 🚀 Passionate about building scalable systems and solving complex problems
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CyberMeteor)
+![](https://komarev.com/ghpvc/?username=CyberMeteor)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruiyangchen-dev/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:im.ruiyangchen@gmail.com)
 
@@ -74,5 +74,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberMeteor&layout=compact&theme=dracula)](https://github.com/CyberMeteor)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberMeteor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=CyberMeteor&theme=dark)](https://git.io/streak-stats)
+
 
 🌟 **Fun Fact**: Transitioned from designing physical structures (Civil Engineering) to architecting software systems!
