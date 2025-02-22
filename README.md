@@ -149,11 +149,16 @@
 - Implemented detailed performance analysis with confusion matrices
 
 </td></tr>
+</table>
 
+<table>
 <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberMeteor&layout=compact&theme=dracula"></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=CyberMeteor&show_icons=true&theme=radical"></td>
 </tr>
+</table>
+
+<table>
 <tr><td>
     <img src="https://streak-stats.demolab.com?user=CyberMeteor&theme=dark">
 </td></tr>
