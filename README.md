@@ -76,10 +76,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=awslambda&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
@@ -115,14 +115,10 @@
 </table>
 
 
-
 <table>
-
-
-
   <tr>
-    <h3> 📈 Contribution Graph </h3>
     <td>
+      <h3 align="left"> 📈 Contribution Graph </h3>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CyberMeteor&theme=xcode&bg_color=FF000000&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CyberMeteor&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
