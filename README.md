@@ -97,7 +97,26 @@
 
 
 </td></tr>
+</table>
 
+
+
+<table>
+
+### 📈 Contribution Graph
+
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CyberMeteor&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CyberMeteor&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberMeteor&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+
+<table>
 <tr><td>
 
 ### 📚 Education
@@ -161,6 +180,9 @@
 <table>
 <tr><td>
     <img src="https://streak-stats.demolab.com?user=CyberMeteor&theme=dark">
+</td></tr>
+<tr><td>
+<img src="https://github-profile-trophy.vercel.app/?username=CyberMeteor&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/>
 </td></tr>
 </table>
 
