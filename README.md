@@ -21,7 +21,8 @@
 
 #  🙋‍♂️ Hello 
 
-<table width=“100%”>
+<div align="center">
+<table>
 
 <tr><td>
 
@@ -62,6 +63,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![UnityScript](https://img.shields.io/badge/-UnityScript-000000?logo=unity&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=assemblyscript&logoColor=white)
+</div>
 </div>
 
 #### ☁️ Database Systems & Clouds  
@@ -184,22 +186,23 @@
 </td></tr>
 </table>
 
-<table width="100%">
+<div align="center" >
+<table>
     <tr>
         <td><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberMeteor&layout=compact&theme=dracula"></td>
         <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=CyberMeteor&show_icons=true&theme=radical"></td>
     </tr>
 </table>
 
-
-<table width="100%">
+<table>
     <tr><td>
-        <img src="https://streak-stats.demolab.com?user=CyberMeteor&theme=dark" style="display: block; margin: auto;">
+        <div align="center"><img src="https://streak-stats.demolab.com?user=CyberMeteor&theme=dark"></div>
     </td></tr>
     <tr><td>
         <img src="https://github-profile-trophy.vercel.app/?username=CyberMeteor&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/>
     </td></tr>
 </table>
+</div>
 
 
 ### 🌟 Fun Fact
