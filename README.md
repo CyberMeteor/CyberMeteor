@@ -21,7 +21,7 @@
 
 #  🙋‍♂️ Hello 
 
-<table>
+<table width=“100%”>
 
 <tr><td>
 
@@ -184,21 +184,23 @@
 </td></tr>
 </table>
 
-<table>
-<tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberMeteor&layout=compact&theme=dracula"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=CyberMeteor&show_icons=true&theme=radical"></td>
-</tr>
+<table width="100%">
+    <tr>
+        <td><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberMeteor&layout=compact&theme=dracula"></td>
+        <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=CyberMeteor&show_icons=true&theme=radical"></td>
+    </tr>
 </table>
 
-<table>
-<tr><td>
-    <img src="https://streak-stats.demolab.com?user=CyberMeteor&theme=dark">
-</td></tr>
-<tr><td>
-<img src="https://github-profile-trophy.vercel.app/?username=CyberMeteor&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/>
-</td></tr>
+
+<table width="100%">
+    <tr><td>
+        <img src="https://streak-stats.demolab.com?user=CyberMeteor&theme=dark" style="display: block; margin: auto;">
+    </td></tr>
+    <tr><td>
+        <img src="https://github-profile-trophy.vercel.app/?username=CyberMeteor&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/>
+    </td></tr>
 </table>
+
 
 ### 🌟 Fun Fact
 <p>Transitioned from designing physical structures (Civil Engineering) to architecting software systems!</p>
