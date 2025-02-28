@@ -93,6 +93,8 @@
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-ED8B00?logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?logo=apachetomcat&logoColor=white)
+![Zookeeper](https://img.shields.io/badge/-ApacheZooKeeper-D22128?logo=apache&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
