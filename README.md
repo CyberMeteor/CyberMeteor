@@ -170,11 +170,8 @@
 #### [RPC Framework for Distributed Systems](https://github.com/CyberMeteor/RPC-Framework) 
 > Java | Distributed Systems | ZooKeeper | Concurrency Optimization
 - Developed a modular RPC framework with dynamic service registration and discovery using ZooKeeper
-
 - Engineered a socket-based communication layer with dynamic client-side proxies for seamless remote method invocation
-
 - Implemented random load balancing, optimized thread pool management, and thread-safe singleton patterns for efficient concurrency handling
-
 - Integrated robust exception handling, graceful shutdown hooks, and centralized configuration management for enhanced system reliability
 
 
