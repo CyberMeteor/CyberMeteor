@@ -95,9 +95,12 @@
 ![MyBatis](https://img.shields.io/badge/-MyBatis-ED8B00?logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?logo=apachetomcat&logoColor=white)
 ![Zookeeper](https://img.shields.io/badge/-ApacheZooKeeper-D22128?logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apachekafka-CD163F?logo=apache&logoColor=white)
+![Dubbo](https://img.shields.io/badge/-ApacheDubbo-FF4D00?logo=apache&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-
 ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
@@ -108,6 +111,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/-Scrum-FF9F00?logo=scrumalliance&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
