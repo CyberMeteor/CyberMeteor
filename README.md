@@ -61,6 +61,7 @@
 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?logo=arduino&logoColor=white)
 ![UnityScript](https://img.shields.io/badge/-UnityScript-000000?logo=unity&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?logo=assemblyscript&logoColor=white)
 </div>
@@ -105,6 +106,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white)
+![P5.js](https://img.shields.io/badge/-P5.js-ED225D?logo=p5dotjs&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?logo=angular&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
