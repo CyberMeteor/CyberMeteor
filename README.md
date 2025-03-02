@@ -97,8 +97,8 @@
 ![Zookeeper](https://img.shields.io/badge/-ApacheZooKeeper-D22128?logo=apache&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apachekafka-CD163F?logo=apache&logoColor=white)
 ![Dubbo](https://img.shields.io/badge/-ApacheDubbo-FF4D00?logo=apache&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
