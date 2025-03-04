@@ -176,12 +176,12 @@
 ### 🚀 Highlight Projects
 
 #### [RPC Framework for Distributed Systems](https://github.com/CyberMeteor/RPC-Framework) 
-> Java | Distributed Systems | ZooKeeper | Concurrency Optimization
-- Developed a modular RPC framework with dynamic service registration and discovery using ZooKeeper
-- Engineered a socket-based communication layer with dynamic client-side proxies for seamless remote method invocation
-- Implemented random load balancing, optimized thread pool management, and thread-safe singleton patterns for efficient concurrency handling
-- Integrated robust exception handling, graceful shutdown hooks, and centralized configuration management for enhanced system reliability
-
+> Java | Netty | ZooKeeper | Distributed Systems | Concurrency Optimization
+- Developed a high-performance distributed RPC framework inspired by Dubbo, supporting service registration, discovery, and SPI-based extension mechanisms.
+- Built an asynchronous communication layer with Netty NIO, achieving 18,000 QPS, reducing GC overhead by 35%, and implemented a BIO version for comparison.
+- Designed a custom binary protocol with CRC32 checksum, graceful shutdown via JVM hooks, and multiple serialization methods (Kryo, Hessian, Protostuff) with Gzip compression, improving serialization efficiency by 40%.
+- Implemented load balancing (random, round-robin, least active, consistent hashing) and integrated ZooKeeper for dynamic service discovery and real-time configuration updates.
+- Enhanced system reliability with circuit breaker strategies (Failover, Failfast, Failsafe), asynchronous calls using CompletableFuture, and thread isolation for optimized concurrency management.
 
 #### [CISC Simulator](https://github.com/CyberMeteor/CSCI6461_GWU)
 > Java | Computer Architecture | Memory Optimization
