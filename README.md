@@ -115,7 +115,7 @@
 ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Mqtt](https://img.shields.io/badge/-Mqtt-660066?logo=mqtt&logoColor=white)
+![Mqtt](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/-Scrum-FF9F00?logo=scrumalliance&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
