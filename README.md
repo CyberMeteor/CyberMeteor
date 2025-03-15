@@ -30,8 +30,8 @@
 
 <p>
     &emsp;&emsp;🎓 Computer Science Master's Student @ George Washington University (GPA: 3.96/4.0)<br>
-    &emsp;&emsp;💻 Full-Stack Developer | Cloud Enthusiast | Systems Architect<br>
-    &emsp;&emsp;🚀 Passionate about building scalable systems and solving complex problems
+    &emsp;&emsp;💻 Full-Stack Developer | Distributed Systems Engineer | High-Concurrency Architect｜ Cloud Enthusiast<br>
+    &emsp;&emsp;🚀 Passionate about building scalable distributed frameworks, optimizing high-concurrency systems, and designing resilient microservice architectures for real-world applications.
 </p>  
 
 </td></tr>
