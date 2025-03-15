@@ -179,11 +179,11 @@
 
 #### [RPC Framework for Distributed Systems](https://github.com/CyberMeteor/RPC-Framework) 
 > Java | Netty | ZooKeeper | Distributed Systems | Concurrency Optimization
-- Developed a high-performance distributed RPC framework inspired by Dubbo, supporting service registration, discovery, and SPI-based extension mechanisms.
-- Built an asynchronous communication layer with Netty NIO, achieving 18,000 QPS, reducing GC overhead by 35%, and implemented a BIO version for comparison.
-- Designed a custom binary protocol with CRC32 checksum, graceful shutdown via JVM hooks, and multiple serialization methods (Kryo, Hessian, Protostuff) with Gzip compression, improving serialization efficiency by 40%.
-- Implemented load balancing (random, round-robin, least active, consistent hashing) and integrated ZooKeeper for dynamic service discovery and real-time configuration updates.
-- Enhanced system reliability with circuit breaker strategies (Failover, Failfast, Failsafe), asynchronous calls using CompletableFuture, and thread isolation for optimized concurrency management.
+- Developed a **high-performance**  distributed RPC framework inspired by Dubbo, supporting service registration , discovery, and **SPI-based** extension mechanisms.
+- Built an **asynchronous communication layer**  with Netty NIO, achieving **18,000 QPS** , reducing GC overhead by 35%, and implemented a BIO version for comparison.
+- Designed a **custom binary protocol**  with CRC32 checksum, graceful shutdown via JVM hooks, and multiple **serialization methods**  (Kryo, Hessian, Protostuff) with Gzip compression, improving **serialization efficiency**  by 40%.
+- Implemented **load balancing**  (random, round-robin, least active, consistent hashing) and integrated **ZooKeeper**  for **dynamic service discovery**  and real-time configuration updates.
+- Enhanced system **reliability**  with **circuit breaker strategies**  (Failover, Failfast, Failsafe), asynchronous calls using **CompletableFuture** , and **thread isolation**  for optimized concurrency management.
 
 #### [FireSentinel: High-Concurrency Fire Protection System](https://github.com/CyberMeteor/FireSentinel) 
 > Java | Spring Boot | Redis | Kafka | Netty | High Concurrency | Real-Time Processing
@@ -193,17 +193,17 @@
 - Implemented **resilient alarm distribution**  with circuit breakers, bulkheads, and fallback mechanisms, delivering critical alerts within **500ms**  across WebSockets, MQTT, and SMS.
 - Integrated **observability tools**  (Prometheus, Grafana, OpenTelemetry) for real-time monitoring, distributed tracing, and performance optimization, ensuring **fault tolerance**  under heavy operational loads.
 
-#### [CISC Simulator](https://github.com/CyberMeteor/CSCI6461_GWU)
+#### [Complex Instruction Set Computer (CISC) Simulator](https://github.com/CyberMeteor/CSCI6461_GWU)
 > Java | Computer Architecture | Memory Optimization
-- Developed ISA with 64-instruction set achieving 98% test pass rate
-- Optimized memory access times by 18% through MAR-MBR implementation
-- Designed cache system with comprehensive logging/debugging features
+- Developed ISA with **64-instruction set** , achieving 98% test pass rate .
+- Optimized memory access times by 18% through **MAR-MBR implementation** .
+- Designed **cache system**  with comprehensive logging/debugging features .
 
 #### [Neural Cat Sound Classification](https://github.com/Yanxi1024/Classification_Tasks)
 > Python | PyTorch | Audio Processing
-- Achieved 85.18% accuracy using ResNet18 on 3,200+ vocalizations
-- Optimized Mel-scaled filter banks preprocessing for 23% faster convergence
-- Implemented detailed performance analysis with confusion matrices
+- Achieved 85.18% accuracy using **ResNet18**  on 3,200+ vocalizations .
+- Optimized **Mel-scaled** filter banks preprocessing for 23% faster convergence .
+- Implemented detailed **performance analysis**  with confusion matrices .
 
 </td></tr>
 </table>
