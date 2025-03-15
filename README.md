@@ -96,7 +96,7 @@
 ![MyBatis](https://img.shields.io/badge/-MyBatis-ED8B00?logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?logo=apachetomcat&logoColor=white)
 ![Zookeeper](https://img.shields.io/badge/-ApacheZooKeeper-D22128?logo=apache&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Apachekafka-CD163F?logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apachekafka-231F20?logo=apachekafka&logoColor=white)
 ![Dubbo](https://img.shields.io/badge/-ApacheDubbo-FF4D00?logo=apache&logoColor=white)
 
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
@@ -108,12 +108,14 @@
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white)
 ![P5.js](https://img.shields.io/badge/-P5.js-ED225D?logo=p5dotjs&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?logo=angular&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Mqtt](https://img.shields.io/badge/-Mqtt-660066?logo=mqtt&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/-Scrum-FF9F00?logo=scrumalliance&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
@@ -182,6 +184,14 @@
 - Designed a custom binary protocol with CRC32 checksum, graceful shutdown via JVM hooks, and multiple serialization methods (Kryo, Hessian, Protostuff) with Gzip compression, improving serialization efficiency by 40%.
 - Implemented load balancing (random, round-robin, least active, consistent hashing) and integrated ZooKeeper for dynamic service discovery and real-time configuration updates.
 - Enhanced system reliability with circuit breaker strategies (Failover, Failfast, Failsafe), asynchronous calls using CompletableFuture, and thread isolation for optimized concurrency management.
+
+#### [FireSentinel: High-Concurrency Fire Protection System](https://github.com/CyberMeteor/FireSentinel) 
+> Java | Spring Boot | Redis | Kafka | Netty | High Concurrency | Real-Time Processing
+- Developed an intelligent fire protection system for large shopping centers, supporting **5,000+ concurrent device connections**  with real-time data ingestion and alarm processing.
+- Engineered a **low-latency event-driven architecture**  using Netty for non-blocking I/O, Kafka for scalable message streaming, and Esper CEP for complex event processing, achieving **sub-100ms latency**  in alarm detection.
+- Designed a **multi-level caching strategy**  with Redis Cluster, Bloom filters, and time-window caching, reducing database load by **90%**  while ensuring high availability.
+- Implemented **resilient alarm distribution**  with circuit breakers, bulkheads, and fallback mechanisms, delivering critical alerts within **500ms**  across WebSockets, MQTT, and SMS.
+- Integrated **observability tools**  (Prometheus, Grafana, OpenTelemetry) for real-time monitoring, distributed tracing, and performance optimization, ensuring **fault tolerance**  under heavy operational loads.
 
 #### [CISC Simulator](https://github.com/CyberMeteor/CSCI6461_GWU)
 > Java | Computer Architecture | Memory Optimization
